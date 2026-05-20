@@ -1,7 +1,11 @@
 # Practice Lab - Day 12
 > 20th May, 2026
 
-This Practice Lab is designed to give you hands-on understanding using www.killercoda.com as a learning tool.
+This Practice Lab is designed to give you hands-on understanding using 
+```
+https://killercoda.com 
+```
+as a learning tool.
 
 ---
 
@@ -14,13 +18,14 @@ This Practice Lab is designed to give you hands-on understanding using www.kille
 | 3 | [Complete All Four Lessons](#note-there-are-a-total-of-four-4-lessons-that-you-must-complete-in-killercoda) |
 | 4 | [Lesson 1 - List Files](#task-4-lesson1---list-files) |
 | 5 | [Lesson 2 - Your Best Friend "man"](#task-2-lesson-2---your-best-friend-man) |
-| 6 | [Lesson 3 - Create and Delete Files](#task-3-lesson-3---create-and-delete-files) |
+| 6 | [Lesson 3 - Work with Directories](#task-3-lesson-3---work-with-directories) |
 | 7 | [Lesson 4 - Create and Delete Files](#task-4-lesson-4---create-and-delete-files) |
 | 8 | [Final Submission](#final-submission) |
 
 ---
 
-### Task 1: Click on the Landing Page and Select the Linux Module
+### Task 1: Click on the Landing Page and Select the Linux Module:
+https://killercoda.com 
 
 <img src="../../.github/assets/intro_killercoda.jpeg" width="500">
 
@@ -90,7 +95,7 @@ If you are done, Congratulations!
 
 ---
 
-### Task 3: Lesson 3 - Create and Delete Files
+### Task 3: Lesson 3 - Work with Directories
 
 <img src="../../.github/assets/intro12_killercoda.jpeg" width="250">
 

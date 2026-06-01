@@ -1,7 +1,6 @@
 # Lab Practice 01 - Create a Local Respository on your PC / Laptop
 
-## Day 17
-> May 25th, 2026
+> Day 16
 
 ---
 

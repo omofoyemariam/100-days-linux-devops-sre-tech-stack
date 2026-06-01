@@ -1,4 +1,4 @@
-# RedHat VS Debain
+# RedHat VS Debain - FOR INFORMATION ONLY!!! Don't Stress Out
 
 # Common Package Managers
 

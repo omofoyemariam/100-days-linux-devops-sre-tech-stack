@@ -1,4 +1,7 @@
 # # Interview Question: Tell me if you have done PATCHING?
+
+> May 14th, 2026 - Day - 06
+---
 ⚠️ MANDATORY LAB UPDATE: GUEST TOOLS PATCHING
 Attention Batch 3 Students\
 <img src="../../.github/assets/NIT PATCHING ALERT.jpg" width="500">

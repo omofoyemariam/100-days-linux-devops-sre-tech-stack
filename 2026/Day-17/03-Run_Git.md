@@ -1,5 +1,5 @@
 # Practice Lab – Connecting Local Host (Laptop) to GitHub Repository
-> May 13th, 2026 - Day 15
+> Day 17
 
 This Practice Lab will guide students on how to connect their Local Host (Laptop/Desktop) to a remote GitHub Repository using SSH Keys.
 

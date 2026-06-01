@@ -1,6 +1,6 @@
 # PRACTICE LAB - PROJECT 101
 ## Introduction
-> May 24th, 2026 - Day 16
+> May 24th, 2026 - Day 15
 
 This project is about everything you have learned up to this stage. It is important that you follow the STEPS carefully.
 

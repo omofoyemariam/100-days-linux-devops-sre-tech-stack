@@ -1,7 +1,6 @@
 # Lab Practice 03 - Create Your First README Document
 
-## Day 17
-> May 25th, 2026
+> Day 16
 
 ---
 

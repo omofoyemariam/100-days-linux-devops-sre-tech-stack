@@ -299,7 +299,21 @@ timedatectl status
 
 ### Notes
 
-Many Linux systems synchronize time automatically using NTP.
+Many Linux systems synchronize time automatically using NTP. To see the NTP servers your system is connected to
+You can check which daemon (service) is actively running on your system:
+~~~bash
+systemctl status chronyd
+~~~
+Check the NTP server configuration file:
+~~bash
+cat /etc/chrony.conf
+~~
+
+~~~bash
+chronyc sources -v
+~~~
+- The ^* symbol next to a server means it is the current active NTP source.
+- The -v flag adds a helpful legend explaining what all the symbols mean.
 
 ### Run
 
